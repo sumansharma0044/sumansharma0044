@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Suman Sharma! 👋
 
-<!--
-**sumansharma0044/sumansharma0044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Software Developer passionate about Coding.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on E-Commerce website in ReactJs
+- 🌱 I’m currently learning Data Structure and Algorithms
+- 💬 Ask me about ReactJs, Core Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- LinkedIn: [LinkedIn Profile]((https://www.linkedin.com/in/suman-sharma-0b2a37227/))
+
+Feel free to explore my repositories and reach out! 😊
